@@ -39,7 +39,7 @@ export default function Home() {
       <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl" style={{backgroundColor:"#151717"}}>
         <div className="flex">
             <img className="w-8 rounded-3xl h-8 left-12 absolute" src="https://learner-users.s3.ap-south-1.amazonaws.com/logo-orig.png" alt="" />
-            <h1 className="text-white">https://www.neetprep.com/questions/721-Physics/7975/</h1>
+            <h1 className="text-white">https://www.neetprep.com/questions/721-Physics/7975</h1>
         </div>
       </div>
       </a>
