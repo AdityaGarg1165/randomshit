@@ -17,7 +17,7 @@ export default function Home() {
   },[data])
   return (
    <div>
-    <div className="w-140 card rounded-2xl h-40" style={{backgroundColor:"#0e0f0f"}}>
+    <div className="w-140 card rounded-2xl " style={{backgroundColor:"#0e0f0f"}}>
       <div>
       <a target="_blank" href="https://questions.examside.com/past-years/jee/question/ptwo-cars-are-travelling-towards-each-other-at-speed-of--jee-main-physics-motion-lpksftxel2yuc0qu">
       <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl" style={{backgroundColor:"#151717"}}>
