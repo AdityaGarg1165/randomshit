@@ -5,6 +5,7 @@
 
 body{
     background-color: #151717;
+    padding-bottom: 12vw;
 }
 /* .btn{
     /* border: 0.1rem solid; */
@@ -34,7 +35,7 @@ body{
     justify-content: center;
     /* height: 20rem; */
     margin: auto;
-    margin-top: 10vw;
+    margin-top: 4vw;
 }
 
 @property --gradient-angle {
