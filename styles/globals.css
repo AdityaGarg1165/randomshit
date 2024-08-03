@@ -13,7 +13,7 @@ body{
 .btn::after{
     content: "";
     position: absolute;
-    inset: -0.01rem;
+    inset: 1.01rem;
     z-index: -1;
     background: conic-gradient(
       from var(--gradient-angle),
@@ -73,7 +73,7 @@ body{
   .card::after {
     content: "";
     position: absolute;
-    inset: -0.01rem;
+    inset: -0.2rem;
     z-index: -1;
     background: conic-gradient(
       from var(--gradient-angle),
@@ -88,7 +88,7 @@ body{
   }
   
   .card::after {
-    filter: blur(1.1rem);
+    filter: blur(1rem);
   }
   
   @keyframes rotation {
