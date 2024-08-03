@@ -45,10 +45,10 @@ body{
   }
   
   :root {
-    --clr-1: #10cadf;
+    --clr-1: #3a8a05;
     --clr-2: rgb(121, 186, 224);
-    --clr-3: white;
-    --clr-4: #6779e0;
+    --clr-3: rgb(80, 75, 160);
+    --clr-4: #fc4c20cc;
     --clr-5: #224fe2;
   }
   
