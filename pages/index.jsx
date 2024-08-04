@@ -76,16 +76,13 @@ export default function Home() {
         </div>
       </div>
       </a>
-  
-      <button className="openAll text-white" onClick={()=>{
+      
+      <button  className="openAll mt-4 px-6 py-2 rounded-full bg-white text-black hover:bg-gray-200 transition-colors" onClick={()=>{
         const elements = document.getElementsByClassName("a")
-        // elements.map((em)=>{
           for (let key of elements){
             key.click()
             console.log(key)
           }
-          // em.click()
-        // })
         console.log(elements)
       }}>Open Links</button>
       </div>
