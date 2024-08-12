@@ -36,55 +36,8 @@ export default function Home() {
         </div>
       </div>
       </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pthe-correct-order-of-the-first-ionization-enthalpy-isp-jee-main-chemistry-some-basic-concepts-of-chemistry-roxhazqwhqzvegh6">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl" >
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-chemistry-some-basic-concepts-of-chemistry-08e1b1bainm6purw">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/the-first-and-second-ionisation-enthalpies-of-a-metal-are-49-jee-main-chemistry-periodic-table-and-periodicity-omicapxsly7yjeif">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/a-particle-is-moving-in-one-dimension-along-x-axis-under-jee-main-physics-dlavjbxcwptiruee">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pif-tan-15circ--1-over-tan-75circ---1-ov-jee-main-mathematics-trigonometric-functions-and-equations-plopqle4ebbse6de">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pif-cotalpha--1-and-secbeta---5-over-3-jee-main-mathematics-trigonometric-functions-and-equations-1kn7r0josppawtak">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pthe-value-of-2sin-12circ---sin-72circ-jee-main-mathematics-trigonometric-functions-and-equations-zl3egggvg8nqr3gb">
+   
+      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-chemistry-some-basic-concepts-of-chemistry-xhd5rjdlpjdf9tfw">
       <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
         <div className="flex">
             <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
