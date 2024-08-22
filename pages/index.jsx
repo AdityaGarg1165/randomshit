@@ -152,6 +152,15 @@ export default function Home() {
       </div>
       </a>
    
+      <a id="a" className={"a"} target="_blank" href="https://www.neetprep.com/questions/55-Physics/680-Work-Energy-Power?courseId=8&utm_source=google&utm_medium=cpc&utm_campaign=PerformanceMax-Online_Test_Series-13October-IN&campaignid=21498908141&adgroupid=&feeditemid=&targetid=&network=x&device=c&devicemodel=&keyword=&matchtype=&creative=&placement=&target=&loc_interest_ms=&loc_physical_ms=9302611&adposition=&gclid=CjwKCAjwoJa2BhBPEiwA0l0ImPC_pPUWEGoCNERsn-a1LaOZ7tly1A80CsgRihYElyrinO0ef0O0ohoCeYUQAvD_BwE&gad_source=1&pageNo=2">
+      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
+        <div className="flex">
+            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
+            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
+        </div>
+      </div>
+      </a>
+   
       
       <button  className="openAll mt-4 px-6 py-2 rounded-full bg-white text-black hover:bg-gray-200 transition-colors" onClick={()=>{
         const elements = document.getElementsByClassName("a")
