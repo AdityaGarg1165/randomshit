@@ -45,7 +45,7 @@ export default function Home() {
         </div>
       </div>
       </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pthree-blocks-mathrmm1-m2-m3-having-masses-4-jee-main-physics-motion-s5inhklf6lkhqvkn">
+      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/a-particle-moves-such-that-its-position-vector-overrighta-jee-main-physics-current-electricity-vidkxkahuohpef6l">
       <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
         <div className="flex">
             <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
@@ -53,7 +53,7 @@ export default function Home() {
         </div>
       </div>
       </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/medical/question/pin-the-diagram-shown-the-normal-reaction-force-between-2-neet-physics-motion-in-a-straight-line-mxclt4uzi4waauki">
+      <a id="a" className={"a"} target="_blank" href="https://web.getmarks.app/cpyqb/question/66446717970e6e9ab542d01b">
       <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
         <div className="flex">
             <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
@@ -61,113 +61,7 @@ export default function Home() {
         </div>
       </div>
       </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pa-particle-of-mass-m-moves-on-a-straight-line-with-it-jee-main-physics-motion-wd1uieomyapehhsu">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pfour-particles-a-b-c-d-of-mass-fracm2-m-2-jee-main-physics-motion-6syzfqjh02r5pqla">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pa-bob-of-mass-m-is-suspended-by-a-light-string-of-l-jee-main-physics-motion-ayadzucoxgnlqjsz">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-   
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pthe-ratio-of-powers-of-two-motors-is-frac3-sqrtx-jee-main-physics-motion-zmkxr3v0tkth1azc">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/psand-is-being-dropped-from-a-stationary-dropper-at-a-rate-jee-main-physics-motion-ksnp54qgyhcm5uqu">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-   
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/psand-is-being-dropped-from-a-stationary-dropper-at-a-rate-jee-main-physics-motion-ksnp54qgyhcm5uqu">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pin-the-given-figure-the-block-of-mass-m-is-dropped-from-jee-main-physics-motion-jkkzhistoytnoqsz">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/pa-particle-experiences-a-variable-force-overrightarrow-jee-main-physics-motion-yl8lo7olmqr1aneo">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/a-boy-is-rolling-a-05-kg-ball-on-the-frictionless-floor-wit-jee-main-physics-units-and-measurements-zr8f78nrzyldwvf8">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/consider-a-force-overrightarrow-f--xwidehat-i--yw-jee-main-physics-work-power-and-energy-5xjea9dhhimcma8z">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://questions.examside.com/past-years/jee/question/if-sz-in-cz-iziz-1-then-ns-is--jee-main-mathematics-fthqotz0cttifazx">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-   
-      <a id="a" className={"a"} target="_blank" href="https://www.neetprep.com/questions/55-Physics/680-Work-Energy-Power?courseId=8&utm_source=google&utm_medium=cpc&utm_campaign=PerformanceMax-Online_Test_Series-13October-IN&campaignid=21498908141&adgroupid=&feeditemid=&targetid=&network=x&device=c&devicemodel=&keyword=&matchtype=&creative=&placement=&target=&loc_interest_ms=&loc_physical_ms=9302611&adposition=&gclid=CjwKCAjwoJa2BhBPEiwA0l0ImPC_pPUWEGoCNERsn-a1LaOZ7tly1A80CsgRihYElyrinO0ef0O0ohoCeYUQAvD_BwE&gad_source=1&pageNo=2">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
-      <a id="a" className={"a"} target="_blank" href="https://www.neetprep.com/questions/55-Physics/680-Work-Energy-Power?courseId=8&utm_source=google&utm_medium=cpc&utm_campaign=PerformanceMax-Online_Test_Series-13October-IN&campaignid=21498908141&adgroupid=&feeditemid=&targetid=&network=x&device=c&devicemodel=&keyword=&matchtype=&creative=&placement=&target=&loc_interest_ms=&loc_physical_ms=9302611&adposition=&gclid=CjwKCAjwoJa2BhBPEiwA0l0ImPC_pPUWEGoCNERsn-a1LaOZ7tly1A80CsgRihYElyrinO0ef0O0ohoCeYUQAvD_BwE&gad_source=1&pageNo=3">
-      <div className="w-120 pl-14 pt-2 mt-9 h-12 rounded-3xl">
-        <div className="flex">
-            <img className="w-8 h-8 left-12 absolute" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEw8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8Y+s8ZOs9ZOs0Xut4j/CNoPJxiu8qWOrN1fn///+crPNgfe7c4vu9x/f0X2FWAAAAC3RSTlMAN4PD4vxf7P8WFjaXv00AAACxSURBVHgBfJHFAcAgEMBwq7ew/6g1XPODwCkIQIQJpQQjCEoYFwHOMiWJyCAqiSgqYN9Fq+xpCtiz/CWxbl4cq7Xkc8w+3PbDsW/25quZB3muP5fvKFbzynmLKW1NKJHh3oIA7ksMSJTr9pKEJYBGadGblzSVu/k4pyjLsFsSdljQuBWYymII6fiWyxLHVw9eJ4P39c6nY0lWBmR72eoZvmRCKIFBkxF60uQknKjxZgcATS0Xn51y6MIAAAAASUVORK5CYII=" alt="" />
-            <h1 className="text-white">https://questions.examside.com/past-years/jee/question</h1>
-        </div>
-      </div>
-      </a>
+
    
       
       <button  className="openAll mt-4 px-6 py-2 rounded-full bg-white text-black hover:bg-gray-200 transition-colors" onClick={()=>{
